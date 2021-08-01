@@ -1,0 +1,15 @@
+{
+  "name": "russia_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prequest": "^1.0.0",
+    "vk-io": "^4.0.0-rc.30"
+  }
+}

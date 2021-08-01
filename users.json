@@ -1,0 +1,179 @@
+[
+	{
+		"id": 528262675,
+		"uid": 0,
+		"balance": 850,
+		"bank": 0,
+		"texrab": false,
+		"tag": "Сергей",
+		"mention": true,
+		"nicklimit": 15,
+		"exp": 11,
+		"level": 1,
+		"regDate": "31.6.2021",
+		"timers": {
+			"bonus": false,
+			"kopat": false,
+			"hasWorked": false
+		},
+		"notifications": true,
+		"referal": null,
+		"transport": {
+			"car": 0
+		},
+		"settings": {
+			"adm": 1,
+			"firstmsg": false,
+			"trade": true,
+			"limit": 100000
+		},
+		"energy": 10
+	},
+	{
+		"id": 393096650,
+		"uid": 1,
+		"balance": 500,
+		"bank": 0,
+		"texrab": false,
+		"tag": "Влад",
+		"mention": true,
+		"nicklimit": 15,
+		"exp": 1,
+		"level": 1,
+		"regDate": "31.6.2021",
+		"timers": {
+			"bonus": false,
+			"kopat": false,
+			"hasWorked": false
+		},
+		"notifications": true,
+		"referal": null,
+		"transport": {
+			"car": 0
+		},
+		"settings": {
+			"adm": 1,
+			"firstmsg": false,
+			"trade": true,
+			"limit": 100000
+		},
+		"energy": 10
+	},
+	{
+		"id": 637416108,
+		"uid": 2,
+		"balance": 2934,
+		"bank": 0,
+		"texrab": false,
+		"tag": "Aondel",
+		"mention": true,
+		"nicklimit": 15,
+		"exp": 2,
+		"level": 1,
+		"regDate": "31.6.2021",
+		"timers": {
+			"bonus": false,
+			"hasWorked": false
+		},
+		"notifications": true,
+		"referal": null,
+		"transport": {
+			"car": 0
+		},
+		"settings": {
+			"adm": 1,
+			"firstmsg": false,
+			"trade": true,
+			"limit": 100000
+		},
+		"energy": 10,
+		"work": 1
+	},
+	{
+		"id": 443533984,
+		"uid": 3,
+		"balance": 500,
+		"bank": 0,
+		"texrab": false,
+		"tag": "Роман",
+		"mention": true,
+		"nicklimit": 15,
+		"exp": 1,
+		"level": 1,
+		"regDate": "31.6.2021",
+		"timers": {
+			"bonus": false,
+			"hasWorked": false
+		},
+		"notifications": true,
+		"referal": null,
+		"transport": {
+			"car": 0
+		},
+		"settings": {
+			"adm": 1,
+			"firstmsg": false,
+			"trade": true,
+			"limit": 100000
+		},
+		"energy": 10
+	},
+	{
+		"id": 622398973,
+		"uid": 4,
+		"balance": 500,
+		"bank": 0,
+		"texrab": false,
+		"tag": "Максимов",
+		"mention": true,
+		"nicklimit": 15,
+		"exp": 1,
+		"level": 1,
+		"regDate": "31.6.2021",
+		"timers": {
+			"bonus": false,
+			"hasWorked": false
+		},
+		"notifications": true,
+		"referal": null,
+		"transport": {
+			"car": 0
+		},
+		"settings": {
+			"adm": 1,
+			"firstmsg": false,
+			"trade": true,
+			"limit": 100000
+		},
+		"energy": 10
+	},
+	{
+		"id": 215454190,
+		"uid": 5,
+		"balance": 500,
+		"bank": 1000,
+		"texrab": false,
+		"tag": "Валерий",
+		"mention": true,
+		"nicklimit": 15,
+		"exp": 1,
+		"level": 1,
+		"regDate": "31.6.2021",
+		"timers": {
+			"bonus": false,
+			"hasWorked": false
+		},
+		"notifications": true,
+		"referal": null,
+		"transport": {
+			"car": 0
+		},
+		"settings": {
+			"adm": 1,
+			"firstmsg": false,
+			"trade": true,
+			"limit": 100000
+		},
+		"energy": 10
+	}
+]
